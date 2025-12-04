@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "恋は戦争",
+  "base_artist": "Vivid BAD SQUAD",
+  "createdAt": "2025-12-04T07:46:14.076205Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "恋は戦争",
+      "artist": "supercell feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/01_恋は戦争_supercell_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "恋は戦争",
+      "artist": "supercell",
+      "has_synced": true,
+      "path": "select/02_恋は戦争_supercell.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "【Ado】恋は戦争 歌いました",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/03_【Ado】恋は戦争_歌いました_Ado.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "恋は戦争",
+      "artist": "supercell feat.初音ミク",
+      "has_synced": true,
+      "path": "select/04_恋は戦争_supercell_feat.初音ミク.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "恋は戦争 (feat. 小豆沢こはね&白石杏&初音ミク)",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": false,
+      "path": "select/pl_01_恋は戦争_(feat._小豆沢こはね&白石杏&初音ミク)_Vivid_BAD_SQUAD.txt"
+    }
+  ]
+}
